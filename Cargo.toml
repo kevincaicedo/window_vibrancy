@@ -1,5 +1,5 @@
 [package]
-name = "window-vibrancy"
+name = "window_vibrancy"
 description = "Make your windows vibrant."
 authors = [ "Tauri Programme within The Commons Conservancy" ]
 version = "0.1.3"
